@@ -4,9 +4,9 @@ The purpose of this repo is to document some of LeetCode's problems which I've f
 
 ## Improve Runtime
 ### Python
-- 23. Merge k Sorted Lists
-- 729. My Calendar I
+- 23\. Merge k Sorted Lists
+- 729\. My Calendar I
 
 ## Challenging Problems
 ### Python
-- 1590. Make Sum Divisible by P
+- 1590\. Make Sum Divisible by P
