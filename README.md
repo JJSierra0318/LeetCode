@@ -11,3 +11,4 @@ The purpose of this repo is to document some of LeetCode's problems which I've f
 ### Python
 - 1590\. Make Sum Divisible by P
 - 962\. Maximum Width Ramp
+- 1942\. The Number of the Smallest Unoccupied Chair
