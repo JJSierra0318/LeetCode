@@ -13,3 +13,4 @@ The purpose of this repo is to document some of LeetCode's problems which I've f
 - 962\. Maximum Width Ramp
 - 1942\. The Number of the Smallest Unoccupied Chair
 - 951\. Flip Equivalent Binary Trees
+- 2458\. Height of Binary Tree After Subtree Removal Queries
