@@ -7,6 +7,7 @@ The purpose of this repo is to document some of LeetCode's problems which I've f
 - 23\. Merge k Sorted Lists
 - 729\. My Calendar I
 - 2463\. Minimum Total Distance Traveled
+- 2064\. Minimized Maximum of Products Distributed to Any Store
 
 ## Challenging Problems
 ### Python
